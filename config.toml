@@ -1,0 +1,11 @@
+#stop jika total akun mencapai 400 kamu bisa ubah kalo mau
+stop = 402
+
+
+[captcha]
+key = ""
+
+
+[proxy]
+password = ""
+ip_port = ""
